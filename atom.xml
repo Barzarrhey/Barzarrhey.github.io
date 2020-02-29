@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.barzarrhey.cn</id>
     <title>Barzarrhey</title>
-    <updated>2020-02-12T10:15:58.172Z</updated>
+    <updated>2020-02-29T03:52:47.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.barzarrhey.cn"/>
     <link rel="self" href="https://blog.barzarrhey.cn/atom.xml"/>
@@ -10,6 +10,44 @@
     <logo>https://blog.barzarrhey.cn/images/avatar.png</logo>
     <icon>https://blog.barzarrhey.cn/favicon.ico</icon>
     <rights>All rights reserved 2020, Barzarrhey</rights>
+    <entry>
+        <title type="html"><![CDATA[News Scraper]]></title>
+        <id>https://blog.barzarrhey.cn/post/news-scraper</id>
+        <link href="https://blog.barzarrhey.cn/post/news-scraper">
+        </link>
+        <updated>2020-02-28T12:49:59.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="免责条款">免责条款</h1>
+<p>科技向善，代码无罪，数据有度。<br>
+网络一线牵，珍惜这段缘。</p>
+<h4 id="可能导致的法律问题包括但不限于刑法第二百八十五条非法侵入计算机信息系统罪-知识产权侵权-刑法第一百一十条间谍罪-刑法第二百五十三条之一所涉的侵犯公民个人信息罪-网络安全法第六十四条非法出售个人信息-第二百八十六条之一所涉的拒不履行信息网络安全管理义务罪-违反数据安全管理办法-非法牟利-刑法第二百一十七条侵犯著作权罪">可能导致的法律问题包括但不限于：《刑法》第二百八十五条非法侵入计算机信息系统罪、知识产权侵权、《刑法》第一百一十条间谍罪、《刑法》第二百五十三条之一所涉的“侵犯公民个人信息罪”、《网络安全法》第六十四条非法出售个人信息、第二百八十六条之一所涉的“拒不履行信息网络安全管理义务罪”、违反《数据安全管理办法》、非法牟利、《刑法》第二百一十七条侵犯著作权罪。</h4>
+<h4 id="在使用前务必仔细阅读四大门户的服务条款与隐私政策包括但不限于以下内容">在使用前，务必仔细阅读四大门户的服务条款与隐私政策，包括但不限于以下内容：</h4>
+<ul>
+<li><a href="https://www.qq.com/contract.shtml" title="腾讯网站服务条款">腾讯网站服务条款</a></li>
+<li><a href="https://privacy.qq.com/" title="腾讯网站隐私政策">腾讯网站隐私政策</a></li>
+<li><a href="http://gb.corp.163.com/gb/legal.html" title="网易网站隐私政策">网易网站隐私政策</a></li>
+<li><a href="http://corp.sina.com.cn/chn/copyright.html" title="李阿昀的简书">新浪网站知识产权声明</a></li>
+<li><a href="http://corp.sina.com.cn/chn/sina_priv.html" title="新浪网站隐私保护">新浪网站隐私保护</a></li>
+<li><a href="https://intro.sohu.com/copyright" title="搜狐网站知识产权声明">搜狐网站知识产权声明</a></li>
+<li><a href="https://intro.sohu.com/privacy" title="搜狐网站隐私政策">搜狐网站隐私政策</a></li>
+</ul>
+<h4 id="本项目仅用于学术研究与测试禁止任何方式的直接或间接商用相关责任由使用者承担-在发布任何研究成果时请务必隐去数据来源-用户信息只保留必须的数据不得以任何方式传播数据">本项目仅用于学术研究与测试，禁止任何方式的直接或间接商用，相关责任由使用者承担。在发布任何研究成果时，请务必隐去数据来源、用户信息，只保留必须的数据，不得以任何方式传播数据。</h4>
+<h1 id="使用说明">使用说明</h1>
+<h2 id="管理员功能一般用户可以略过这里">管理员功能(一般用户可以略过这里)</h2>
+<figure data-type="image" tabindex="1"><img src="https://blog.barzarrhey.cn/post-images/1582896563184.png" alt="管理员功能入口" loading="lazy"></figure>
+<h3 id="接口管理非专业用户可以略过这里">接口管理(非专业用户可以略过这里)</h3>
+<p>这是一个 Swagger 做的接口文档页面。</p>
+<h3 id="用户管理">用户管理</h3>
+<p><img src="https://blog.barzarrhey.cn/post-images/1582896774553.png" alt="用户管理界面" loading="lazy"><br>
+在管理员功能里，您可以轻松管理用户的授权。(PS. 注册后的用户是未授权状态，需要管理员进行授权)</p>
+<h3 id="反馈意见">反馈意见</h3>
+<p>在管理员点击反馈意见时，会看到所有用户的反馈意见意见提交意见的用户信息。<br>
+<img src="https://blog.barzarrhey.cn/post-images/1582896973802.png" alt="反馈意见界面" loading="lazy"></p>
+<h2 id="用户功能">用户功能</h2>
+<h3 id="反馈意见-2">反馈意见</h3>
+<p>您可以点击反馈意见，在输入框中填写您宝贵意见。我们会仔细聆听您的每一条建议。</p>
+<h3 id="单条新闻数据获取">单条新闻数据获取</h3>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Note: Neural Networks and Deep Learning -- Andrew Y. Ng  _Week 1]]></title>
         <id>https://blog.barzarrhey.cn/post/note-neural-networks-and-deep-learning-andrew-y-ng-_week-1</id>
